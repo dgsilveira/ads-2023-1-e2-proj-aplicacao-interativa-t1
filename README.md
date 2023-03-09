@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Andréa Medeiros Aragão da Silveira
 * Antony Leme
 * Douglas Garcia da Silveira
-* Leandro Henrique
+* Leandro Henrique de Oliveira Reis
 * Marccos Maciel
 * Silmara Eugênia
 

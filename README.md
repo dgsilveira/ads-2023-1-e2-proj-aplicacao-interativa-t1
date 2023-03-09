@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# CONTROLE DE ESTOQUE E VENDAS
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO: DESENVOLVIMENTO DE UMA APLICAÇÃO INTERATIVA`
 
-`SEMESTRE`
+`2 SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Andréa Medeiros Aragão da Silveira
+* Antony Leme
+* Douglas Garcia da Silveira
+* Leandro Henrique
+* Marccos Maciel
+* Silmara Eugênia
 
 ## Orientador
 
-* Nome completo do professor 1
+* Rosilane Ribeiro da Mota
 
 ## Instruções de utilização
 

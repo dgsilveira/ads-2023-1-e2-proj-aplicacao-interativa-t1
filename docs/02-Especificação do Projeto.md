@@ -37,37 +37,33 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-| RF-01 | O sistema deve permitir ao usuário controlar o acesso de funcionários responsáveis por emitir relatórios. | ALTA | 
-| RF-02 | O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover funcionários do quadro de empregados da loja.| ALTA |
-| RF-03 | O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover os produtos da loja. | ALTA | 
-| RF-04 | O sistema deve permitir ao usuário emitir relatório de estoque da empresa.| MÉDIA |
-| RF-05 | O sistema deve permitir ao usuário emitir relatório de vendas da empresa. | MÉDIA | 
-| RF-06 | O sistema deve permitir ao usuário registrar as vendas realizadas.| MÉDIA |
-| RF-07 | O sistema deve permitir ao usuário registrar as entradas e saídas dos produtos no estoque. | MÉDIA | 
+|ID       | Descrição do Requisito  | Prioridade |
+|---------|-----------------------------------------|----|
+|RF-01| O sistema deve permitir ao usuário controlar o acesso de funcionários responsáveis por emitir relatórios. | ALTA | 
+|RF-02| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover funcionários do quadro de empregados da loja.| ALTA |
+|RF-03| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover os produtos da loja. | ALTA | 
+|RF-04| O sistema deve permitir ao usuário emitir relatório de estoque da empresa.| MÉDIA |
+|RF-05| O sistema deve permitir ao usuário emitir relatório de vendas da empresa. | MÉDIA | 
+|RF-06| O sistema deve permitir ao usuário registrar as vendas realizadas.| MÉDIA |
+|RF-07| O sistema deve permitir ao usuário registrar as entradas e saídas dos produtos no estoque. | MÉDIA | 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+|ID        | Descrição do Requisito  |Prioridade |
+|--------|-------------------------|----|
+|RNF-01| O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub) | ALTA | 
+|RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
+|RNF-03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade | MÉDIA | 
+|RNF-04| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID   | Restrição                                             |
+|-----|-------------------------------------------------------|
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 19/06/2023.|
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end e Back-end.|
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|

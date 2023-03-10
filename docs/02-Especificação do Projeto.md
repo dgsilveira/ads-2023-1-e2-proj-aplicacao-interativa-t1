@@ -39,13 +39,13 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01| O sistema deve permitir ao usuário controlar o acesso de funcionários responsáveis por emitir relatórios. | ALTA | 
-|RF-02| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover funcionários do quadro de empregados da loja.| ALTA |
-|RF-03| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover os produtos da loja. | ALTA | 
-|RF-04| O sistema deve permitir ao usuário emitir relatório de estoque da empresa.| MÉDIA |
-|RF-05| O sistema deve permitir ao usuário emitir relatório de vendas da empresa. | MÉDIA | 
-|RF-06| O sistema deve permitir ao usuário registrar as vendas realizadas.| MÉDIA |
-|RF-07| O sistema deve permitir ao usuário registrar as entradas e saídas dos produtos no estoque. | MÉDIA | 
+| RF-01 | O sistema deve permitir ao usuário controlar o acesso de funcionários responsáveis por emitir relatórios. | ALTA | 
+| RF-02 | O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover funcionários do quadro de empregados da loja.| ALTA |
+| RF-03 | O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover os produtos da loja. | ALTA | 
+| RF-04 | O sistema deve permitir ao usuário emitir relatório de estoque da empresa.| MÉDIA |
+| RF-05 | O sistema deve permitir ao usuário emitir relatório de vendas da empresa. | MÉDIA | 
+| RF-06 | O sistema deve permitir ao usuário registrar as vendas realizadas.| MÉDIA |
+| RF-07 | O sistema deve permitir ao usuário registrar as entradas e saídas dos produtos no estoque. | MÉDIA | 
 
 ### Requisitos não Funcionais
 

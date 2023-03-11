@@ -1,26 +1,18 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto foi consolidada com a participação dos usuários em um trabalho de imersão feita pelos membros da equipe a partir da observação dos usuários em seu local natural e por meio de entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.das para realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+> - Andrea Gomes de 41 anos, é supervisora de RH e sócio-proprietária de uma distribuidora de bebidas na região de BH. Pensa em aumentar sua renda e ser dona do próprio negócio. Seu maior desafio atualmente é resolver problemas no gestão de estoque, controle de gastos e processos mal otimizados na empresa.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+> - Vitor Pereira, 32 anos. Proprietário de uma distribuidora de bebidas em Betim, tem enfrentado problemas com estoque furado, compras desnecessárias e falta de produtos. Empreendedor desde os 28 anos, tem a sensação de que os dias são muito curtos para todas as suas demandas. Tem o desejo de se tornar o maior vendedor da região, alcançar estabilidade financeira e atender as demandas dos clientes.
+
+> - Carlos Augusto tem 26 anos e trabalha como gerente de uma distribuidora de bebidas em Contagem, região metropolitana de Belo Horizonte. Ele busca soluções no mercado para melhorar a gestão de processos na sua empresa, onde detectou a existencia de estoque obsoleto, relatórios pobres e inexatos, além de compras desnecessárias. Seus anseios são ter o próprio empreendimento, estabilidade financeira e dar melhores condições para sua familia.
+
+> - Camila torres é uma estudante desempregada de 23 anos que estuda os processos necessários para abrir uma distribuidora de bebidas. Com pouca experiência e capital, busca conhecer as principais falhas na gestão desse tipo de empreendimento para conseguir alcançar seu objetivo de dominar as ferramentas de gestão e ter sucesso financeiro.
 
 ## Histórias de Usuários
 
@@ -28,64 +20,50 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Eu,Andrea Gomes, como administradora | Controlar acesso de funcionários aos relatórios de estoque e vendas da empresa. | Manter os dados atuais e confiáveis. |
+|Eu, Andrea Gomes,  como administradora |Registrar produtos oferecidos pela loja (cadastrar, remover, incluir e visualizar dados) |Ser capaz de acompanhar a dinâmica de vendas e realizar compras assertivas, evitando gastos desnecessários. |
+|Eu, Vitor Pereira, como administrador | Emitir relatórios de estoque | Fazer a reposição do estoque em tempo hábil para garantir o atendimento ao cliente. |
+|Eu, Vitor Pereira, como administrador |Emitir relatórios de vendas | Acompanhar quais produtos estão sendo mais vendidos e elaborar estratégia de vendas para os que não têm boa saída. |
+|Eu como estoquista |Registrar as mercadorias que chegam e saem do estoque. | Ter sempre atualizados os dados e quantidades das mercadorias para auxiliar nas tarefas do setor de vendas. |
+|Eu como estoquista | Emitir relatório de estoque. | Emitir relatório de estoque. | Garantir que o próprio estoque seja renovado corretamente (controle de gastos). |
+|Eu como vendedor | Registrar venda dos produtos. | Facilitar ao gestor da empresa obter visão de negócio para tomada de decisões. |
+|Eu, Carlos Augusto, como gerente | Cadastrar funcionários do estabelecimento | Manter o quadro de funcionários ativo e atualizado. |
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades de interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
+|ID       | Descrição do Requisito  | Prioridade |
+|---------|-----------------------------------------|----|
+|RF-01| O sistema deve permitir ao usuário controlar o acesso de funcionários responsáveis por emitir relatórios. | ALTA | 
+|RF-02| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover funcionários do quadro de empregados da loja.| ALTA |
+|RF-03| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover os produtos da loja. | ALTA | 
+|RF-04| O sistema deve permitir ao usuário emitir relatório de estoque da empresa.| MÉDIA |
+|RF-05| O sistema deve permitir ao usuário emitir relatório de vendas da empresa. | MÉDIA | 
+|RF-06| O sistema deve permitir ao usuário registrar as vendas realizadas.| MÉDIA |
+|RF-07| O sistema deve permitir ao usuário registrar as entradas e saídas dos produtos no estoque. | MÉDIA | 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|ID        | Descrição do Requisito  |Prioridade |
+|--------|-------------------------|----|
+|RNF-01| O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub) | ALTA | 
+|RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
+|RNF-03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade | MÉDIA | 
+|RNF-04| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID   | Restrição                                             |
+|-----|-------------------------------------------------------|
+|RE-01| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 19/06/2023.|
+|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Front-end e Back-end.|
+|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|

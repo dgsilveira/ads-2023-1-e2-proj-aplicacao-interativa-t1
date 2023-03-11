@@ -11,11 +11,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Andréa Medeiros Aragão da Silveira
-* Antony Leme
+* Antony Leme Novais Ferreira
 * Douglas Garcia da Silveira
 * Leandro Henrique de Oliveira Reis
-* Marccos Maciel
-* Silmara Eugênia
+* Marcos Maciel
+* Silmara Barbosa
 
 ## Orientador
 

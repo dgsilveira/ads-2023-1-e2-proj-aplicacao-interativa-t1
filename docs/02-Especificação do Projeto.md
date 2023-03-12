@@ -4,15 +4,55 @@ A definição exata do problema e os pontos mais relevantes a serem tratados nes
 
 ## Personas
 
-As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem:
+>### Andrea Gomes
+Andrea Gomes, 40 anos, é supervisora de RH e sócio-proprietária de uma distribuidora de bebidas na região de BH.
 
-> - Andrea Gomes de 41 anos, é supervisora de RH e sócio-proprietária de uma distribuidora de bebidas na região de BH. Pensa em aumentar sua renda e ser dona do próprio negócio. Seu maior desafio atualmente é resolver problemas no gestão de estoque, controle de gastos e processos mal otimizados na empresa.
+**Motivações**
+- Aumentar sua renda;
+- Ser dona do próprio negócio;
+- Ter algum sistema básico que auxilie no controle de estoque e vendas, mesmo que não integre a gestão contábill
 
-> - Vitor Pereira, 32 anos. Proprietário de uma distribuidora de bebidas em Betim, tem enfrentado problemas com estoque furado, compras desnecessárias e falta de produtos. Empreendedor desde os 28 anos, tem a sensação de que os dias são muito curtos para todas as suas demandas. Tem o desejo de se tornar o maior vendedor da região, alcançar estabilidade financeira e atender as demandas dos clientes.
+**Frustrações**
+- Devido pouco tempo, não consegue participar efetivamente na gestão do estoque;
+- Também devido pouco tempo, não consegue participar na gestão de vendas.
 
-> - Carlos Augusto tem 26 anos e trabalha como gerente de uma distribuidora de bebidas em Contagem, região metropolitana de Belo Horizonte. Ele busca soluções no mercado para melhorar a gestão de processos na sua empresa, onde detectou a existencia de estoque obsoleto, relatórios pobres e inexatos, além de compras desnecessárias. Seus anseios são ter o próprio empreendimento, estabilidade financeira e dar melhores condições para sua familia.
 
-> - Camila torres é uma estudante desempregada de 23 anos que estuda os processos necessários para abrir uma distribuidora de bebidas. Com pouca experiência e capital, busca conhecer as principais falhas na gestão desse tipo de empreendimento para conseguir alcançar seu objetivo de dominar as ferramentas de gestão e ter sucesso financeiro.
+>### Vitor Pereira
+Vitor Pereira, 32 anos, proprietário de uma distribuidora de bebidas em Betim. Empreendedor desde os 28 anos.
+
+**Motivações**
+- Desejo de se tornar o maior vendedor da região,
+- No seu ponto de vista alcançar estabilidade financeira,
+- Atender as demadnas dos clientesl
+
+**Frustrações**
+- Não é um bom administrador,
+- Problemas com estoque furado;
+- Compras desnecessárias;
+- Falta de produtos.
+
+>### Carlos Augusto
+Carlos Augusto, 26 anos, trabalha como gerente de uma distribuidora de bebidas em Contagem, região metropolitana de Belo Horizonte.
+
+***Motivações***
+- Ele busca soluções no mercado para melhorar a gestão de processos na sua empresa,
+- Melhorar a qualidade do tempo dele na empresa para aumentar o tempo com a família;
+
+**Frustrações**
+
+- Funcionários/Auxiliares desviaram produtos do estoque;
+- Relatórios pobres e inexatos;
+
+>### Camila Torres
+Camila Torres, 23 anos, estudante de administração e desempregada, estuda os processos necessários para abrir uma distribuidora de bebidas. Com pouca experiência e capital, busca conhecer as principais falhas na gestão desse tipo de empreendimento para conseguir alcançar seu objetivo de dominar as ferramentas de gestão e ter sucesso financeiro.
+
+**Motivações**
+- Por conhecer processos administrativos prospécta a abertura de uma distribuidora de bebidas;
+- Quer ser empreendedora.
+
+**Frustrações**
+- Não vê como possibilidade de fazer controle de estoque e venda tradicionais com papéis ou planilhas simples;
+- Dificuldade de encontrar sistemas simples de emissão de relatórios de vendas e estoque.
 
 ## Histórias de Usuários
 

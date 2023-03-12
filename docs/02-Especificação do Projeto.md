@@ -79,13 +79,14 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID       | Descrição do Requisito  | Prioridade |
 |---------|-----------------------------------------|----|
-|RF-01| O sistema deve permitir ao usuário controlar o acesso de funcionários responsáveis por emitir relatórios. | ALTA | 
-|RF-02| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover funcionários do quadro de empregados da loja.| ALTA |
-|RF-03| O sistema deve permitir ao usuário cadastrar, incluir, visualizar e remover os produtos da loja. | ALTA | 
-|RF-04| O sistema deve permitir ao usuário emitir relatório de estoque da empresa.| MÉDIA |
-|RF-05| O sistema deve permitir ao usuário emitir relatório de vendas da empresa. | MÉDIA | 
-|RF-06| O sistema deve permitir ao usuário registrar as vendas realizadas.| MÉDIA |
-|RF-07| O sistema deve permitir ao usuário registrar as entradas e saídas dos produtos no estoque. | MÉDIA | 
+|RF-01| O sistema deve permitir ao administrador controlar o acesso de funcionários responsáveis por emitir relatórios. | ALTA | 
+|RF-02| O sistema deve permitir ao administrador cadastrar, incluir, visualizar e remover funcionários do quadro de empregados da loja.| ALTA |
+|RF-03| O sistema deve permitir ao administrador cadastrar, incluir, visualizar e remover os produtos da loja. | ALTA | 
+|RF-04| O sistema deve permitir ao administrador emitir relatório de estoque da empresa.| MÉDIA |
+|RF-05| O sistema deve permitir ao administrador emitir relatório de vendas da empresa. | MÉDIA | 
+|RF-06| O sistema deve permitir ao vendedor registrar as vendas realizadas.| MÉDIA |
+|RF-07| O sistema deve permitir ao administrador cadastrar, incluir, visualizar e remover vendas | ALTA | 
+|RF-08| O sistema deve permitir ao estoquista incluir e visualizar os produtos da loja. | ALTA | 
 
 ### Requisitos não Funcionais
 
@@ -93,7 +94,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID        | Descrição do Requisito  |Prioridade |
 |--------|-------------------------|----|
-|RNF-01| O site deve ser publicado em um ambiente acessível publicamente na Internet (GitHub) | ALTA | 
+|RNF-01| O site deve ser publicado em um ambiente acessível publicamente na Internet| ALTA | 
 |RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada |  ALTA | 
 |RNF-03| O site deve ter bom nível de contraste entre os elementos da tela em conformidade | MÉDIA | 
 |RNF-04| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  ALTA | 

@@ -60,14 +60,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Eu,Andrea Gomes, como administradora | Controlar acesso de funcionários aos relatórios de estoque e vendas da empresa. | Manter os dados atuais e confiáveis. |
-|Eu, Andrea Gomes,  como administradora |Registrar produtos oferecidos pela loja (cadastrar, remover, incluir e visualizar dados) |Ser capaz de acompanhar a dinâmica de vendas e realizar compras assertivas, evitando gastos desnecessários. |
-|Eu, Vitor Pereira, como administrador | Emitir relatórios de estoque | Fazer a reposição do estoque em tempo hábil para garantir o atendimento ao cliente. |
-|Eu, Vitor Pereira, como administrador |Emitir relatórios de vendas | Acompanhar quais produtos estão sendo mais vendidos e elaborar estratégia de vendas para os que não têm boa saída. |
-|Eu como estoquista |Registrar as mercadorias que chegam e saem do estoque. | Ter sempre atualizados os dados e quantidades das mercadorias para auxiliar nas tarefas do setor de vendas. |
-|Eu como estoquista | Emitir relatório de estoque. | Emitir relatório de estoque. | Garantir que o próprio estoque seja renovado corretamente (controle de gastos). |
-|Eu como vendedor | Registrar venda dos produtos. | Facilitar ao gestor da empresa obter visão de negócio para tomada de decisões. |
-|Eu, Carlos Augusto, como gerente | Cadastrar funcionários do estabelecimento | Manter o quadro de funcionários ativo e atualizado. |
+|Andrea Gomes|Controlar acesso de funcionários aos relatórios de estoque e vendas da empresa|Manter os dados atuais e confiáveis|
+|Andrea Gomes|Registrar produtos oferecidos pela loja (cadastrar, remover, incluir e visualizar dados)|Acompanhar a dinâmica de vendas e realizar compras de acordo com o estoque, evitando gastos desnecessários|
+|Vitor Pereira|Emitir relatórios de estoque|Fazer a reposição do estoque em tempo hábil para garantir o atendimento ao cliente|
+|Vitor Pereira|Emitir relatórios de vendas|Acompanhar quais produtos estão sendo mais vendidos e elaborar estratégia de vendas para os que não têm boa saída|
+|Estoquista|Registrar as mercadorias que chegam para o estoque|Ter sempre atualizados os dados e quantidades das mercadorias para auxiliar nas tarefas do setor de vendas|
+|Estoquista|Emitir relatório de estoque|Garantir que o próprio estoque seja renovado corretamente (controle de gastos)|
+|Vendedor|Registrar venda dos produtos|Facilitar ao gestor da empresa obter visão de negócio para tomada de decisões|
+|Carlos Augusto|Cadastrar funcionários do estabelecimento|Manter o quadro de funcionários ativo e atualizado|
 
 ## Requisitos
 

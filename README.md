@@ -6,7 +6,9 @@
 
 `2 SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Densolvimento de uma aplicação ASP .NET MVC com linguagem C# para Controle Interno de Vendas e Estoque.
+
+A aplicação não tem o objetivo de assumir o contábel, mas apenas organizar e otimizar de forma simples o estoque e venda.
 
 ## Integrantes
 
@@ -14,7 +16,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Antony Leme Novais Ferreira
 * Douglas Garcia da Silveira
 * Leandro Henrique de Oliveira Reis
-* Marcos Maciel
+* Marcos Paulo Assiz Maciel
 * Silmara Barbosa
 
 ## Orientador

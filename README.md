@@ -57,3 +57,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Vídeo sobre o projeto
 
+https://user-images.githubusercontent.com/115049867/224583305-3c753193-9891-4b34-93f3-b6b374611a24.mp4
+
